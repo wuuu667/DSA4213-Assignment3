@@ -27,7 +27,7 @@ This repository contains code and results for Chinese sentiment classification e
 
 Direct run the code chunks in the notebook. And you need to change the file path to your own.
 
-##tips
+## tips
 
 In the Github you may see this:
 <img width="681" height="248" alt="image" src="https://github.com/user-attachments/assets/8fbd5ce6-7b19-4458-940a-66b4a331173b" />
