@@ -21,7 +21,6 @@ This repository contains code and results for Chinese sentiment classification e
 ## File Structure
 
 - `Assignment3-3.ipynb`: Main Jupyter notebook with experiment code and results
-- `Assignment3.pdf`: Experiment and report instructions
 
 ## Usage
 
@@ -31,5 +30,6 @@ Direct run the code chunks in the notebook. And you need to change the file path
 
 In the Github you may see this:
 <img width="681" height="248" alt="image" src="https://github.com/user-attachments/assets/8fbd5ce6-7b19-4458-940a-66b4a331173b" />
+
 Just download it and you can get the good file.
 
